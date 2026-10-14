@@ -1,0 +1,8 @@
+{
+  "name": "Petualangan Arsitek Cilik: Membongkar Rahasia Luas Bangun Datar",
+  "description": "Game media pembelajaran interaktif Matematika Kelas 5 SD untuk menemukan dan membuktikan rumus luas 7 bangun datar di Kota Impian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
